@@ -3,3 +3,4 @@ name = "sovereign-skills"
 version = "0.1.0"
 description = "20 production-grade skills for AI coding agents — setup, scope, discipline, code review, security, session management, governance, ops, and quality audits (eval-leakage, doc-drift). Works with Claude Code, Codex, and Cursor."
 requires-python = ">=3.10"
+# match the style used in the rest of the module
